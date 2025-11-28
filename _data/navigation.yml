@@ -6,11 +6,11 @@ main:
   - title: "소개"
     url: /about/
     
-  - title: "나의 생각"
-    url: /categories/생각/
+  - title: "Christian Living Books"
+    url: /categories/Christian Living Books/
     
-  - title: "신앙서적"
-    url: /categories/신앙서적/
+  - title: "Theology Books"
+    url: /categories/Theology Books/
 
 # (주석) 
 # title: 에는 탭에 표시될 이름
