@@ -1,17 +1,12 @@
 ---
+title: "소개 (About)"
 permalink: /about/
 layout: single
-title: "About"
-excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
-layouts_gallery:
-  - url: /assets/images/mm-layout-splash.png
-    image_path: /assets/images/mm-layout-splash.png
-    alt: "splash layout example"
-  - url: /assets/images/mm-layout-single-meta.png
-    image_path: /assets/images/mm-layout-single-meta.png
-    alt: "single layout with comments and related posts"
-  - url: /assets/images/mm-layout-archive.png
-    image_path: /assets/images/mm-layout-archive.png
-    alt: "archive layout example"
-last_modified_at: 2022-05-27T11:59:26-04:00
-toc: true
+---
+
+
+WELCOME!
+
+이곳은 저의 영감을 공유하는 장소입니다. 여러분들의 귀중한 시간을 사용해서 저의 글을 사랑해주신다면 참으로 감사하겠습니다.
+
+This website is for sharing my inspiration. If you take the time to read my writing, I am truly grateful for your effort.
