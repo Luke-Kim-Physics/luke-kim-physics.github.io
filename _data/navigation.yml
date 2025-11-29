@@ -7,10 +7,10 @@ main:
     url: /about/
     
   - title: "Christian Living Books"
-    url: /categories/Christian Living Books/
+    url: /Christian Living Books/
     
   - title: "Theology Books"
-    url: /categories/Theology Books/
+    url: /Theology Books/
 
 # (주석) 
 # title: 에는 탭에 표시될 이름
