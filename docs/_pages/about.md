@@ -2,6 +2,8 @@
 title: "소개 (About)"
 permalink: /about/
 layout: single
+author_profile: true
+toc: true
 ---
 
 
